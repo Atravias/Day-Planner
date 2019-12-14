@@ -7,14 +7,38 @@ body {
     background-color: bisque;
 
 }
-
+/* 
 .row {
 
     background-color: lightblue;
-}
+} */
 
 .col-md-2 {
 
     height: 28px;
     width: 12%;
+}
+
+.box {
+    border: solid 2px black;
+    height: 150px;
+    width: 100%;
+    margin-bottom: 35px;
+    margin-top: 15px;
+}
+
+.btn {
+
+    text-align: center;
+}
+
+.time {
+    background-color: bisque;
+    border-top: 1px dotted gray;
+    height: 38px;
+    
+}
+
+.plan {
+    width: 450px;
 }
