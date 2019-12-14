@@ -1,0 +1,20 @@
+h1 {
+
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+
+}
+
+.row {
+
+    background-color: lightblue;
+}
+
+.col-md-2 {
+
+    height: 28px;
+    width: 12%;
+}
