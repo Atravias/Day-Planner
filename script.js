@@ -1,5 +1,4 @@
 var time = document.getElementById("currentDay").append(new Date());
-var timeHour = document.getElementById("currentHour").append("The current hour of the day is: " + new Date().getHours());
 var input = document.querySelector("input");
 
 
